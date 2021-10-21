@@ -1,0 +1,9 @@
+1	«	«	PUNCT	_	_	3	punct	_	start_char=0|end_char=1
+2	Հայերէնի	հայերէ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	3	nmod:poss	_	start_char=1|end_char=9
+3	Ծառադարան	ծառադարան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	start_char=10|end_char=19
+4	»	»	PUNCT	_	_	3	punct	_	start_char=19|end_char=20
+5	Լեզուական	լեզուական	ADJ	_	_	6	amod	_	start_char=21|end_char=30
+6	Արհեստագիտութիւններու	արհեստագիտութիութ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	8	nmod:poss	_	start_char=31|end_char=52
+7	Հետազոտական	հետազոտական	ADJ	_	_	8	amod	_	start_char=53|end_char=64
+8	աշխատարան	աշխատարան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	start_char=65|end_char=74
+
